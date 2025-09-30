@@ -7,9 +7,9 @@
 1. 确保你已经安装了 COOL 语言的编译器（如 `coolc`）和相关运行环境（如 `spim`）。
 2. 编译 COOL 代码：
    ```bash
-   coolc Stack.cl
+   coolc 1_cool.cl
 
    
 运行生成的代码：
  ```bash
- spim Stack.s
+  spim 1_cool.s
