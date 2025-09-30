@@ -7,3 +7,8 @@
 2. 编译 COOL 代码：
    ```bash
    coolc Stack.cl
+
+   
+运行生成的代码：
+bash
+spim Stack.s
